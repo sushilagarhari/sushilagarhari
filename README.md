@@ -12,5 +12,5 @@ Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn | SQL
 - **[Sales Data Analysis Dashboard](https://github.com/sushilagarhari/Sales-Data-Analysis-Dashboard)** — Business insights from retail sales data using Python and visualization
 
 ## 📫 Connect with me
-- Email: your-sushilagarhari9721@gmail.com
+- Email: sushilagarhari9721@gmail.com
 - LinkedIn: your-https://www.linkedin.com/in/sushil-agarhari-988437359/
