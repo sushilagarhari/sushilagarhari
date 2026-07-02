@@ -8,8 +8,11 @@
 Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn | SQL
 
 ## 📌 Projects
-- **[Student Placement Prediction](https://github.com/sushilagarhari/Student-Placement-Prediction)** — ML model predicting campus placement outcomes using real student data
-- **[Sales Data Analysis Dashboard](https://github.com/sushilagarhari/Sales-Data-Analysis-Dashboard)** — Business insights from retail sales data using Python and visualization
+- **[Student Placement Prediction](https://github.com/sushilagarhari/Student-Placement-Prediction)** — ML model predicting campus placement        outcomes using real student data
+- **[Sales Data Analysis Dashboard](https://github.com/sushilagarhari/Sales-Data-Analysis-Dashboard)** — Business insights from retail             sales data using Python and visualization
+- **[AI Interview Agent](https://github.com/sushilagarhari/AI-Interview-Agent)** — AI-powered mock interview tool using Gemini API for
+       real-time answer evaluation
+- **[Portfolio Website](https://sushilagarhari.github.io)** — Personal portfolio showcasing all projects and skills
 
 ## 📫 Connect with me
 - Email: sushilagarhari9721@gmail.com
