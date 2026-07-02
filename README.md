@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Sushil Agrahari 👋
 
-<!--
-**sushilagarhari/sushilagarhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Data Science student at Maharana Pratap Engineering College (AKTU)  
+📊 Aspiring Data Analyst / Data Scientist  
+🌱 Currently learning Machine Learning and Data Visualizationa
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn | SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- **[Student Placement Prediction](https://github.com/sushilagarhari/Student-Placement-Prediction)** — ML model predicting campus placement outcomes using real student data
+- **[Sales Data Analysis Dashboard](https://github.com/sushilagarhari/Sales-Data-Analysis-Dashboard)** — Business insights from retail sales data using Python and visualization
+
+## 📫 Connect with me
+- Email: your-sushilagarhari9721@gmail.com
+- LinkedIn: your-https://www.linkedin.com/in/sushil-agarhari-988437359/
