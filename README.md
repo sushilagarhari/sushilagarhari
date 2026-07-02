@@ -1,4 +1,4 @@
-# Hi, I'm Sushil Agrahari 👋
+# Hi, I'm Sushil Agarhari 👋
 
 🎓 B.Tech Data Science student at Maharana Pratap Engineering College (AKTU)  
 📊 Aspiring Data Analyst / Data Scientist  
